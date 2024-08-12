@@ -167,7 +167,7 @@ async def slash_command(interaction: discord.Interaction):
     await interaction.response.send_message("command")
 '''
 
-bot.run('MTI0ODM1MDMyOTg5Njk2NDIwNg.G_6yPt.pzynZW5RjnsyLsLxE6Jy4yIAWTvXevNL0hqFFQ')
+bot.run('MTI0ODM1MDMyOTg5Njk2NDIwNg.G7V6DY.grLq2spPXJC_aXvZxKX24pXgkazOlmGty19YcE')
 # client.run(TOKEN)
 
 #response = model.generate_content("What is your name?")
