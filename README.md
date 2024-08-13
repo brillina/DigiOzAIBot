@@ -1,1 +1,1 @@
-Needs Discord Bot Token and Google Gemini AI key in .env file
+* Needs Discord Bot Token and Google Gemini AI key in .env file
